@@ -1,0 +1,23 @@
+body {
+  background-color: #e3e3e3;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #233142;
+  height: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+ul {
+  overflow: hidden;
+  float: right;
+  padding-right: 15%;
+}
+ul li {
+  float: left;
+  font-size: 17px;
+  padding: 9px 20px 30px;
+  display: block;
+  color: #f95959;
+}
