@@ -3,9 +3,9 @@ body {
 }
 
 .navbar {
+  height: 40px;
   overflow: hidden;
   background-color: #233142;
-  height: 40px;
   margin-top: 10px;
   margin-bottom: 15px;
 }
