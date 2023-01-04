@@ -9,8 +9,18 @@
 }
 
 .viddash {
+  width: 70%;
   padding-left: 17%;
   padding-bottom: 10px;
-  width: 70%;
   object-fit: contain;
+}
+
+.aboutus {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
+  position: relative;
+  margin-left: 43%;
+  margin-right: 50%;
+  color: #233142;
+  padding-bottom: 10px;
 }
